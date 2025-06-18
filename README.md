@@ -38,9 +38,7 @@ python CUIMS_gui.py
 - `pillow`
 - `pandas`
 
-## Screenshots
 
-(Add screenshots if you want!)
 
 ## License
 
