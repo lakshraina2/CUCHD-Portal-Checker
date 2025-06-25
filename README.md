@@ -15,7 +15,7 @@ A Tkinter-based GUI that uses Selenium to log in to the Chandigarh University st
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/CUCHD-Portal-Checker.git
+git clone https://github.com/lakshraina2/CUCHD-Portal-Checker.git
 cd CUCHD-Portal-Checker
 ```
 
